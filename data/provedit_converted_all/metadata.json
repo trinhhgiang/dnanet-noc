@@ -1,0 +1,25 @@
+{
+  "total_files_found": 35,
+  "samples_converted": 35,
+  "conversion_errors": 0,
+  "noc_distribution": {
+    "5": 13,
+    "1": 13,
+    "4": 3,
+    "3": 3,
+    "2": 3
+  },
+  "feature_count": 78,
+  "sample_files": [
+    "PROVEDIt_1-5-Person CSVs Filtered_3130_IDPlus28cycles/2-5-Persons/20 sec/RD14-0003_IP_20sec_GM_F_2-5P.csv",
+    "PROVEDIt_1-5-Person CSVs Filtered_3130_IDPlus28cycles/2-5-Persons/10 sec/RD14-0003_IP_10sec_GM_F_2-5P.csv",
+    "PROVEDIt_1-5-Person CSVs Filtered_3130_IDPlus28cycles/2-5-Persons/5 sec/RD14-0003_IP_5sec_GM_F_2-5P.csv",
+    "PROVEDIt_1-5-Person CSVs Filtered_3130_IDPlus28cycles/1-Person/20 sec/RD14-0003_IP_20sec_GM_F_1P.csv",
+    "PROVEDIt_1-5-Person CSVs Filtered_3130_IDPlus28cycles/1-Person/10 sec/RD14-0003_IP_10sec_GM_F_1P.csv",
+    "PROVEDIt_1-5-Person CSVs Filtered_3130_IDPlus28cycles/1-Person/5 sec/RD14-0003_IP_5sec_GM_F_1P.csv",
+    "PROVEDIt_1-5-Person CSVs Filtered_3500_F6C29cycles_hlfrxn/PROVEDIt_RD14-0003 F6C Known Genotypes.csv",
+    "PROVEDIt_1-5-Person CSVs Filtered_3500_F6C29cycles_hlfrxn/1-Person/15 sec/RD14-0003_F6C_15sec_GM_F_1P.csv",
+    "PROVEDIt_1-5-Person CSVs Filtered_3500_GF29cycles/2-5-Persons/15 sec/RD14-0003_GF_15sec_GM_SE33F_2-5P.csv",
+    "PROVEDIt_1-5-Person CSVs Filtered_3500_GF29cycles/2-5-Persons/25 sec/RD14-0003_GF_25sec_GM_SE33F_2-5P.csv"
+  ]
+}
