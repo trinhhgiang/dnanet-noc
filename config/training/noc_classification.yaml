@@ -1,0 +1,30 @@
+# NoC Training Configuration
+# Configuration for Number of Contributors prediction model
+
+training:
+  epochs: 50
+  batch_size: 32
+  learning_rate: 0.001
+  weight_decay: 0.0001
+  early_stopping_patience: 10
+  min_delta: 0.0001
+  validation_split: 0.2
+  seed: 42
+
+model:
+  num_features: 100  # Will be auto-detected from data
+  num_classes: 10    # NoC from 1-10 contributors
+  hidden_dim: 128
+  dropout_rate: 0.2
+
+# Feature extraction settings
+features:
+  peak_threshold: 50.0  # Minimum RFU for peak detection
+  n_top_loci: 17        # Use top 17 autosomal loci
+  normalize: true       # Normalize features (zero mean, unit var)
+
+# Optional MLflow tracking
+mlflow:
+  enabled: false
+  experiment_name: "dnanet_noc"
+  tracking_uri: null    # local mlruns/ directory if null
