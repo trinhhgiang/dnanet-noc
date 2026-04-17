@@ -1,0 +1,15 @@
+{
+  "total_files_found": 35,
+  "samples_converted": 34,
+  "samples_ambiguous": 1,
+  "conversion_errors": 0,
+  "noc_distribution": {
+    "5": 12,
+    "1": 13,
+    "4": 3,
+    "3": 3,
+    "2": 3
+  },
+  "feature_count": 78,
+  "input_directory": "/home/giang/GenAI/20252/Tin sinh/PROVEDIt_1-5-Person CSVs Filtered"
+}

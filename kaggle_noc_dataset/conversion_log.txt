@@ -1,0 +1,54 @@
+🔍 PROVEDIt Converter - Scanning /home/giang/GenAI/20252/Tin sinh/PROVEDIt_1-5-Person CSVs Filtered
+======================================================================
+
+Found 35 CSV files
+======================================================================
+
+✓ success (NoC=5): PROVEDIt_1-5-Person CSVs Filtered_3130_IDPlus28cycles/2-5-Persons/20 sec/RD14-0003_IP_20sec_GM_F_2-5P.csv
+✓ success (NoC=5): PROVEDIt_1-5-Person CSVs Filtered_3130_IDPlus28cycles/2-5-Persons/10 sec/RD14-0003_IP_10sec_GM_F_2-5P.csv
+✓ success (NoC=5): PROVEDIt_1-5-Person CSVs Filtered_3130_IDPlus28cycles/2-5-Persons/5 sec/RD14-0003_IP_5sec_GM_F_2-5P.csv
+✓ success (NoC=1): PROVEDIt_1-5-Person CSVs Filtered_3130_IDPlus28cycles/1-Person/20 sec/RD14-0003_IP_20sec_GM_F_1P.csv
+✓ success (NoC=1): PROVEDIt_1-5-Person CSVs Filtered_3130_IDPlus28cycles/1-Person/10 sec/RD14-0003_IP_10sec_GM_F_1P.csv
+✓ success (NoC=1): PROVEDIt_1-5-Person CSVs Filtered_3130_IDPlus28cycles/1-Person/5 sec/RD14-0003_IP_5sec_GM_F_1P.csv
+⚠️  AMBIGUOUS (skipped): PROVEDIt_1-5-Person CSVs Filtered_3500_F6C29cycles_hlfrxn/PROVEDIt_RD14-0003 F6C Known Genotypes.csv
+✓ success (NoC=1): PROVEDIt_1-5-Person CSVs Filtered_3500_F6C29cycles_hlfrxn/1-Person/15 sec/RD14-0003_F6C_15sec_GM_F_1P.csv
+✓ success (NoC=5): PROVEDIt_1-5-Person CSVs Filtered_3500_GF29cycles/2-5-Persons/15 sec/RD14-0003_GF_15sec_GM_SE33F_2-5P.csv
+✓ success (NoC=5): PROVEDIt_1-5-Person CSVs Filtered_3500_GF29cycles/2-5-Persons/25 sec/RD14-0003_GF_25sec_GM_SE33F_2-5P.csv
+✓ success (NoC=5): PROVEDIt_1-5-Person CSVs Filtered_3500_GF29cycles/2-5-Persons/5 sec/RD14-0003_GF_5sec_GM_SE33F_2-5P.csv
+✓ success (NoC=1): PROVEDIt_1-5-Person CSVs Filtered_3500_GF29cycles/1-Person/15 sec/RD14-0003_GF_15sec_GM_SE33F_1P.csv
+✓ success (NoC=1): PROVEDIt_1-5-Person CSVs Filtered_3500_GF29cycles/1-Person/25 sec/RD14-0003_GF_25sec_GM_SE33F_1P.csv
+✓ success (NoC=1): PROVEDIt_1-5-Person CSVs Filtered_3500_GF29cycles/1-Person/5 sec/RD14-0003_GF_5sec_GM_SE33F_1P.csv
+✓ success (NoC=5): PROVEDIt_1-5-Person CSVs Filtered_3130_PP16HS32cycles/2-5-Persons/20 sec/RD12-0002(102414LEA_20sec)_GM_F_2-5P.csv
+✓ success (NoC=5): PROVEDIt_1-5-Person CSVs Filtered_3130_PP16HS32cycles/2-5-Persons/10 sec/RD12-0002(102414LEA_10sec)_GM_F_2-5P.csv
+✓ success (NoC=5): PROVEDIt_1-5-Person CSVs Filtered_3130_PP16HS32cycles/2-5-Persons/5 sec/RD12-0002(102414LEA_5sec)_GM_F_2-5P.csv
+✓ success (NoC=1): PROVEDIt_1-5-Person CSVs Filtered_3130_PP16HS32cycles/1-Person/20 sec/RD12-0002_PP16HS_20sec_GM_F_1P.csv
+✓ success (NoC=1): PROVEDIt_1-5-Person CSVs Filtered_3130_PP16HS32cycles/1-Person/10 sec/RD12-0002_PP16HS_10sec_GM_F_1P.csv
+✓ success (NoC=1): PROVEDIt_1-5-Person CSVs Filtered_3130_PP16HS32cycles/1-Person/5 sec/RD12-0002_PP16HS_5sec_GM_F_1P.csv
+✓ success (NoC=5): PROVEDIt_1-5-Person CSVs Filtered_3500_IDPlus29cycles/5-Person/15 sec/RD12-0002(052516KCP_15sec)_GM_F_5P.csv
+✓ success (NoC=5): PROVEDIt_1-5-Person CSVs Filtered_3500_IDPlus29cycles/5-Person/25 sec/RD12-0002(052516KCP_25sec)_GM_F_5P.csv
+✓ success (NoC=5): PROVEDIt_1-5-Person CSVs Filtered_3500_IDPlus29cycles/5-Person/5 sec/RD12-0002(052516KCP_5sec)_GM_F_5P.csv
+✓ success (NoC=1): PROVEDIt_1-5-Person CSVs Filtered_3500_IDPlus29cycles/1-Person/15 sec/RD12-0002_15sec_GM_F_1P.csv
+✓ success (NoC=1): PROVEDIt_1-5-Person CSVs Filtered_3500_IDPlus29cycles/1-Person/25 sec/RD12-0002_25sec_GM_F_1P.csv
+✓ success (NoC=1): PROVEDIt_1-5-Person CSVs Filtered_3500_IDPlus29cycles/1-Person/5 sec/RD12-0002_5sec_GM_F_1P.csv
+✓ success (NoC=4): PROVEDIt_1-5-Person CSVs Filtered_3500_IDPlus29cycles/4-Person/15 sec/RD12-0002(063016KCP_15sec)_GM_F_4P.csv
+✓ success (NoC=4): PROVEDIt_1-5-Person CSVs Filtered_3500_IDPlus29cycles/4-Person/25 sec/RD12-0002(063016KCP_25sec)_GM_F_4P.csv
+✓ success (NoC=4): PROVEDIt_1-5-Person CSVs Filtered_3500_IDPlus29cycles/4-Person/5 sec/RD12-0002(063016KCP_5sec)_GM_F_4P.csv
+✓ success (NoC=3): PROVEDIt_1-5-Person CSVs Filtered_3500_IDPlus29cycles/3-Person/15 sec/RD12-0002_15sec_GM_F_3P.csv
+✓ success (NoC=3): PROVEDIt_1-5-Person CSVs Filtered_3500_IDPlus29cycles/3-Person/25 sec/RD12-0002_25sec_GM_F_3P.csv
+✓ success (NoC=3): PROVEDIt_1-5-Person CSVs Filtered_3500_IDPlus29cycles/3-Person/5 sec/RD12-0002_5sec_GM_F_3P.csv
+✓ success (NoC=2): PROVEDIt_1-5-Person CSVs Filtered_3500_IDPlus29cycles/2-Person/15 sec/RD12-0002_15sec_GM_F_2P.csv
+✓ success (NoC=2): PROVEDIt_1-5-Person CSVs Filtered_3500_IDPlus29cycles/2-Person/25 sec/RD12-0002_25sec_GM_F_2P.csv
+✓ success (NoC=2): PROVEDIt_1-5-Person CSVs Filtered_3500_IDPlus29cycles/2-Person/5 sec/RD12-0002_5sec_GM_F_2P.csv
+
+======================================================================
+✅ Conversion complete!
+  ✓ Converted: 34 samples
+  ⚠️  Ambiguous (skipped): 1 files
+  ✗ Errors: 0 files
+
+🧬 NoC Distribution:
+  NoC  1:  13 samples
+  NoC  2:   3 samples
+  NoC  3:   3 samples
+  NoC  4:   3 samples
+  NoC  5:  12 samples
