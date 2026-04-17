@@ -1,0 +1,44 @@
+# NoC Dataset Configuration
+# For DNA mixture samples with contributor count labels
+
+data:
+  root_dir: "data/mixture_samples"  # Directory with .hid files
+  noc_labels: "data/mixture_labels.csv"  # CSV with columns: filename, noc
+  
+  # Data loading strategy
+  strategy:
+    type: "mixture"  # "mixture" or "raw"
+    use_cache: false
+    cache_dir: ".cache/noc_dataset"
+  
+  # Preprocessing
+  preprocessing:
+    baseline_correction: true
+    baseline_method: "percentile_window"  # "percentile_window" or "classic"
+    peak_threshold: 50.0  # Minimum RFU for peak detection
+    
+  # Feature extraction
+  features:
+    extraction_method: "mixture_features"
+    normalize: true
+    n_top_loci: 17  # Use top 17 autosomal loci
+    feature_threshold: 0.0  # Drop features below this value
+  
+  # Data filtering
+  filtering:
+    min_valid_peaks: 5  # Minimum peaks required
+    skip_invalid_ladder: false
+    skip_low_quality: false
+  
+  # Splitting
+  split:
+    train_ratio: 0.7
+    val_ratio: 0.15
+    test_ratio: 0.15
+    stratify_by_noc: true
+    random_seed: 42
+
+# Panel configuration (if using auto-detection)
+panel:
+  type: "PPF6C"  # or "GlobalFiler", "custom"
+  config_file: null  # If null, use default panel

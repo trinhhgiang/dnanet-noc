@@ -1,0 +1,20 @@
+{
+  "id": "honggiangtrnh/dnanet-noc-prediction",
+  "title": "DNANet NoC - DNA Mixture Contributor Prediction",
+  "description": "ML pipeline for predicting Number of Contributors (1-10) in DNA mixtures using deep learning. Includes 25 PROVEDIt DNA profiles with 78 features, training notebooks, pre-trained model, and inference scripts.",
+  "licenses": [
+    {
+      "name": "CC0-1.0"
+    }
+  ],
+  "keywords": [
+    "dna",
+    "forensics",
+    "machine-learning",
+    "pytorch",
+    "deep-learning",
+    "bioinformatics",
+    "classification",
+    "neural-networks"
+  ]
+}
