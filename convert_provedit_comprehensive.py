@@ -368,8 +368,3 @@ if __name__ == '__main__':
     
     args = parser.parse_args()
     convert_directory_comprehensive(args.input_dir, args.output_dir)
-
-with open('convert_provedit_comprehensive.py', 'w') as f:
-    f.write(code)
-
-print("✅ Created convert_provedit_comprehensive.py")
